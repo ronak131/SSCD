@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ronakpanchal/Desktop/System Software & Compiler Design/SSCD lab/Practical-6/operatorprecedence'
+relocations:     []
+...

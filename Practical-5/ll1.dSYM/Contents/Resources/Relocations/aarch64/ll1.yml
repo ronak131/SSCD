@@ -1,0 +1,25 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ronakpanchal/Desktop/System Software & Compiler Design/SSCD lab/Practical-5/ll1'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _initSets, symObjAddr: 0x0, symBinAddr: 0x100002400, symSize: 0xAC }
+  - { offsetInCU: 0x59, offset: 0x59, size: 0x8, addend: 0x0, symName: _rules, symBinAddr: 0x10000871C, symSize: 0x0 }
+  - { offsetInCU: 0xA2, offset: 0xA2, size: 0x8, addend: 0x0, symName: _ruleCount, symBinAddr: 0x100008718, symSize: 0x0 }
+  - { offsetInCU: 0xBE, offset: 0xBE, size: 0x8, addend: 0x0, symName: _nonTerminals, symBinAddr: 0x100008324, symSize: 0x0 }
+  - { offsetInCU: 0xD3, offset: 0xD3, size: 0x8, addend: 0x0, symName: _nonTerminalCount, symBinAddr: 0x100008320, symSize: 0x0 }
+  - { offsetInCU: 0xE8, offset: 0xE8, size: 0x8, addend: 0x0, symName: _terminals, symBinAddr: 0x100008790, symSize: 0x0 }
+  - { offsetInCU: 0xFD, offset: 0xFD, size: 0x8, addend: 0x0, symName: _terminalCount, symBinAddr: 0x10000878C, symSize: 0x0 }
+  - { offsetInCU: 0x112, offset: 0x112, size: 0x8, addend: 0x0, symName: _firstSet, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x139, offset: 0x139, size: 0x8, addend: 0x0, symName: _followSet, symBinAddr: 0x100008190, symSize: 0x0 }
+  - { offsetInCU: 0x14E, offset: 0x14E, size: 0x8, addend: 0x0, symName: _parsingTable, symBinAddr: 0x10000832E, symSize: 0x0 }
+  - { offsetInCU: 0x16F, offset: 0x16F, size: 0x8, addend: 0x0, symName: _initSets, symObjAddr: 0x0, symBinAddr: 0x100002400, symSize: 0xAC }
+  - { offsetInCU: 0x1BD, offset: 0x1BD, size: 0x8, addend: 0x0, symName: _findIndex, symObjAddr: 0xAC, symBinAddr: 0x1000024AC, symSize: 0x88 }
+  - { offsetInCU: 0x21D, offset: 0x21D, size: 0x8, addend: 0x0, symName: _computeFirst, symObjAddr: 0x134, symBinAddr: 0x100002534, symSize: 0x41C }
+  - { offsetInCU: 0x305, offset: 0x305, size: 0x8, addend: 0x0, symName: _computeFollow, symObjAddr: 0x550, symBinAddr: 0x100002950, symSize: 0x5B0 }
+  - { offsetInCU: 0x45D, offset: 0x45D, size: 0x8, addend: 0x0, symName: _constructParsingTable, symObjAddr: 0xB00, symBinAddr: 0x100002F00, symSize: 0x458 }
+  - { offsetInCU: 0x58B, offset: 0x58B, size: 0x8, addend: 0x0, symName: _parse, symObjAddr: 0xF58, symBinAddr: 0x100003358, symSize: 0x3D8 }
+  - { offsetInCU: 0x6A1, offset: 0x6A1, size: 0x8, addend: 0x0, symName: _printFirstSets, symObjAddr: 0x1330, symBinAddr: 0x100003730, symSize: 0x12C }
+  - { offsetInCU: 0x6EF, offset: 0x6EF, size: 0x8, addend: 0x0, symName: _printFollowSets, symObjAddr: 0x145C, symBinAddr: 0x10000385C, symSize: 0x12C }
+  - { offsetInCU: 0x73D, offset: 0x73D, size: 0x8, addend: 0x0, symName: _printParsingTable, symObjAddr: 0x1588, symBinAddr: 0x100003988, symSize: 0x150 }
+  - { offsetInCU: 0x78E, offset: 0x78E, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x16D8, symBinAddr: 0x100003AD8, symSize: 0x290 }
+...
